@@ -12,8 +12,8 @@ int main(int argc, char *argv[]) {
     /*It must be verified that the entered number is greater than or equal to zero*/
     if (number < 0)
     {
-        perror("El núnmero debe ser mayor a cero");
-        exit(1);
+        fprintf(stderr,"The number must be greater than or equal to zero\n");
+        return(1);
     }
     
     /*Implement the function that calculates the factorial of the input argument*/
@@ -43,11 +43,11 @@ int main(int argc, char *argv[]) {
     /*Print the result*/
     if (count == 1)
     {
-        printf("%d es número primo\n", number);
+        printf("%d es nï¿½mero primo\n", number);
     }
     else
     {
-        printf("%d no es número primo\n", number);
+        printf("%d no es nï¿½mero primo\n", number);
     }
 
     /*Print the result*/
