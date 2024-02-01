@@ -30,6 +30,25 @@ int main(int argc, char *argv[]) {
     /*Print the result*/
     
     /*Implement the function that calculates if the argument is a prime number*/
+    int count = 0, index = 1;
+    while (index < number)
+    {
+        if (number % index == 0)
+        {
+            count++;
+        }
+        index++;
+    }
+
+    /*Print the result*/
+    if (count == 1)
+    {
+        printf("%d es número primo\n", number);
+    }
+    else
+    {
+        printf("%d no es número primo\n", number);
+    }
 
     /*Print the result*/
     
