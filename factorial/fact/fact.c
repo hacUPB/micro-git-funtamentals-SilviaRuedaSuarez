@@ -25,7 +25,7 @@ int main(int argc, char *argv[]) {
     }
 
     /*Print the result*/
-    printf("El factorial de %d es %d", number, factorial);
+    printf("The factorial of %d is %d", number, factorial);
     
     /*Print the result*/
     
@@ -43,11 +43,11 @@ int main(int argc, char *argv[]) {
     /*Print the result*/
     if (count == 1)
     {
-        printf("%d es n�mero primo\n", number);
+        printf("%d is a prime number\n", number);
     }
     else
     {
-        printf("%d no es n�mero primo\n", number);
+        printf("%d i not a prime number\n", number);
     }
 
     /*Print the result*/
