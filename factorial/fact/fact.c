@@ -17,7 +17,7 @@ int main(int argc, char *argv[]) {
     }
     
     /*Implement the function that calculates the factorial of the input argument*/
-    int factorial = 5;
+    int factorial = 10;
     int b;
     for (b = number; b > 1; b--)
     {
