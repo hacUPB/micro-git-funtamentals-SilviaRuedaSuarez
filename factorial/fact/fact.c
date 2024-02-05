@@ -21,7 +21,7 @@ int main(int argc, char *argv[]) {
     int b;
     for (b = number; b > 1; b--)
     {
-        factorial= b;
+        factorial *= b;
     }
 
     /*Print the result*/
