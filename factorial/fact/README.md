@@ -13,16 +13,18 @@
 
 ## Resultados
 
-- Se logro clonar y hacer commits varias veces, en lo personal en varios computadores, sin problema, usando los comandos
-  -git clone
-  -git status
-  -git add (carpeta)
-  -git commit -m "cambio"
-  -git push
-  -git pull
+- Se logro clonar y hacer commits varias veces, en lo personal en varios computadores, sin problema, usando los comandos.
 
-- No se logro pasar todos los test de el codigo fact.c
-  -fallo test 7
-  -fallo test 8
+  - git clone
+  - git status
+  - git add (carpeta)
+  - git commit -m "cambio"
+  - git push
+  - git pull
 
-- Se logro subir la imagen y el procedimiento correctamente
+- No se logro pasar todos los test de el codigo fact.c.
+
+  - fallo test 7
+  - fallo test 8
+
+- Se logro subir la imagen y el procedimiento correctamente.
