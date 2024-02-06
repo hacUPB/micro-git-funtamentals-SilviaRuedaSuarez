@@ -2,7 +2,7 @@
 
 ## Ejercicio
 
-[imagen de github](https://github.com/hacUPB/micro-git-funtamentals-SilviaRuedaSuarez/blob/main/factorial/fact/gitHub.png)
+![imagen de github](https://github.com/hacUPB/micro-git-funtamentals-SilviaRuedaSuarez/blob/main/factorial/fact/gitHub.png)
 
 - Clonar el repositorio en tu computador local
 - ingresar al directorio factorial/fact y ahí modificar el archivo llamado fact.c
