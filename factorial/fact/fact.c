@@ -27,7 +27,7 @@ int main(int argc, char *argv[])
     }
 
     /*Print the result*/
-    printf("The factorial of %d is: %d\n", number, factorial);
+    printf("The factorial of %lld is: %lld\n", number, factorial);
 
     /*Print the result*/
 
