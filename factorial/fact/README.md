@@ -22,9 +22,6 @@
   - git push
   - git pull
 
-- No se logro pasar todos los test de el codigo fact.c.
-
-  - fallo test 7
-  - fallo test 8
+- Se logro pasar todos los test, obteniendo la calificacion 25/25
 
 - Se logro subir la imagen y el procedimiento correctamente.
