@@ -19,8 +19,8 @@ int main(int argc, char *argv[])
     }
 
     /*Implement the function that calculates the factorial of the input argument*/
-    int factorial = 1;
-    int b;
+    long long int factorial = 1;
+    long long int b;
     for (b = number; b > 1; b--)
     {
         factorial *= b;
